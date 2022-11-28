@@ -120,6 +120,14 @@ High level roadmap of planned enhancements include:
  * Platform: Enable the detection library to run on embedded devices, using
    hardware acceleration for operations where possible.
 
+## Building Grey Squirrel
+
+TODO - in the meantime, see:
+
+ https://doc.rust-lang.org/cargo/commands/cargo-build.html
+
+and execute cargo build within the Grey Squirrel checkout.
+
 ## License
 
 (C) Copyright 2022 Stuart Cianos. All Rights Reserved.
